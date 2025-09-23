@@ -1,0 +1,2 @@
+create database student_course_system;
+use student_course_system
